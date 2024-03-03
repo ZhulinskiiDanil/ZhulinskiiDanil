@@ -14,12 +14,13 @@
 </p>
 
 ### :man_technologist: About me :
-- I'm a Frontend React.js / Next.js Developer
+- I'm a Frontend Next/Nuxt Developer
 - Experience with Next.js more then 2.5 years
-- I'm use a reduxjs/toolkit more then 1 year
+- State managers (React: _reduxjs/toolkit_ / _effector_) (Vue: _vuex_ / _pinia_)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Reduxjs/toolkit " width="40" height="40"/>&nbsp;
