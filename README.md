@@ -15,7 +15,7 @@
 
 ### :man_technologist: About me :
 - I'm a Frontend React.js / Next.js Developer
-- Experience with Next.js more then 1.5 years
+- Experience with Next.js more then 2.5 years
 - I'm use a reduxjs/toolkit more then 1 year
 
 ### :hammer_and_wrench: Languages and Tools :
