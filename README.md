@@ -31,4 +31,4 @@
 </div>
 
 ### :fire: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZhulinskiiDanil&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZhulinskiiDanil&theme=dark&hide_border=true&border_radius=32&background=45%2C2C47EB00%2CEBB78608&fire=2B9FEB&stroke=9EB0EB0C&ring=2B9FEB20&currStreakNum=2B9FEB&sideLabels=2B9FEB&sideNums=FFFFFF&currStreakLabel=00B5FF&dates=EBEBEB30)](https://git.io/streak-stats)
