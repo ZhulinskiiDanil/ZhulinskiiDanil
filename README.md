@@ -1,4 +1,4 @@
-<h1 align="center">Danil / Middle Frontend Developer</h1>
+<h1 align="center">Zhulinskii Danil / Frontend Developer</h1>
 
 <br />
 <div align="center">
