@@ -15,7 +15,7 @@
 
 ### :man_technologist: About me :
 - I'm a Middle Frontend Developer
-- Experience with Next.js more then 2.5 years
+- Experience with Next/Nuxt more then 3 years
 - State managers (React: _reduxjs/toolkit_ / _effector_) (Vue: _vuex_ / _pinia_)
 
 ### :hammer_and_wrench: Languages and Tools :
