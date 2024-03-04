@@ -30,7 +30,7 @@
 <br />
 <br />
 <br />
-<h5>Coding on:</h5>
+<h5>Coding on frameworks:</h5>
 <h6>Start from 2020 year ~ August</h6>
 <h6>"React.js" from 2021 year ~ June</h6>
 <h6>"Next.js" from 2021 year ~ July</h6>
