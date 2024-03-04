@@ -14,7 +14,7 @@
 </p>
 
 ### :man_technologist: About me :
-- I'm a Frontend Next/Nuxt Developer
+- I'm a Middle Frontend Developer
 - Experience with Next.js more then 2.5 years
 - State managers (React: _reduxjs/toolkit_ / _effector_) (Vue: _vuex_ / _pinia_)
 
