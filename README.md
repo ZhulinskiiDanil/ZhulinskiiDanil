@@ -1,7 +1,5 @@
-<h1 align="center">Zhulinskii Danil / Frontend Developer</h1>
-
-<br />
 <div align="center">
+ <a href="https://app.daily.dev/zhulinskiidanil"><img src="https://api.daily.dev/devcards/v2/MYyaETLhdTEEv75NgbSbJ.png?r=jx2&type=wide&theme=dark" width="652" alt="Zhulinskii Danil's Dev Card"/></a>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZhulinskiiDanil&theme=dark&hide_border=true&border_radius=32&background=45%2C2C47EB00%2CEBB78608&fire=2B9FEB&stroke=9EB0EB0C&ring=2B9FEB20&currStreakNum=2B9FEB&sideLabels=2B9FEB&sideNums=FFFFFF&currStreakLabel=00B5FF&dates=EBEBEB30" alt="GitHub Streak" /></a>
 </div>
 <br />
