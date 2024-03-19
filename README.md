@@ -23,7 +23,7 @@
 
 <h2>This may help you</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhulinskiiDanil&repo=js-utils&theme=dark&border_radius=16&hide_border=true)](https://github.com/ZhulinskiiDanil/js-utils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZhulinskiiDanil&repo=tjs-utils&theme=dark&border_radius=16&hide_border=true)](https://github.com/ZhulinskiiDanil/tjs-utils)
 
 <br />
 <br />
