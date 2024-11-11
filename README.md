@@ -26,4 +26,3 @@
 <h6>"Vue.js" from 2023 year ~ March</h6>
 <h6>"Nuxt.js" from 2023 year ~ March</h6>
 <h6>"Angular.js" from 2024 year ~ February</h6>
-<h6>@ZhulinskiiDanil</h6>
