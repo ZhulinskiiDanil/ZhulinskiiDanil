@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
- <a href="https://t.me/ZhulinskyDanil">
+ <a href="https://t.me/eslint_disable_next_line">
   <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
  </a>
  <img src="https://img.shields.io/badge/danielwebdev-cornflowerblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
