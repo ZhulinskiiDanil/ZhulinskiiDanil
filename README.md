@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./profile-hero.svg" alt="Zhulynskyi Danylo — Frontend Developer" width="100%" />
+<a href="https://zhulynskyi.dev">
+  <img src="./profile-hero.svg" alt="Zhulynskyi Danylo — Frontend Developer" width="100%" />
+</a>
 
 <br />
 
@@ -10,7 +12,7 @@ I build responsive web applications, interactive interfaces and developer tools 
 
 [![Website](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zhulynskyi.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-0284c7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eslint_disable_next_line)
-![Discord](https://img.shields.io/badge/danielwebdev-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhulinskiidanil@gmail.com)
 
 </div>
 
@@ -30,6 +32,13 @@ Frontend developer focused on building modern web interfaces and products.
 <div align="center">
   <img src="./pixel-wave.svg" alt="" width="100%" />
 </div>
+
+## Currently
+
+- Exploring **AI / Machine Learning**
+- Expanding into **backend development**
+- Working toward **Fullstack Development**
+- Improving my knowledge of **software architecture**
 
 ## Tech stack
 
@@ -108,19 +117,15 @@ Interactive web project featuring a **3D garage/interface**.
 
 ---
 
-## Coding activity
-
-[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24968)](https://codetime.dev)
-
----
-
 <div align="center">
 
 ### Contact
 
-Feel free to contact me about development, projects or collaboration.
+Open to interesting projects, collaborations and frontend opportunities.
 
-[![Telegram](https://img.shields.io/badge/@eslint__disable__next__line-0284c7?style=flat&logo=telegram&logoColor=white)](https://t.me/eslint_disable_next_line)
+[![Website](https://img.shields.io/badge/zhulynskyi.dev-6366F1?style=flat\&logo=googlechrome\&logoColor=white)](https://zhulynskyi.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:zhulinskiidanil@gmail.com)
+[![Telegram](https://img.shields.io/badge/@eslint__disable__next__line-0284c7?style=flat\&logo=telegram\&logoColor=white)](https://t.me/eslint_disable_next_line)
 
 <br /><br />
 
