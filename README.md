@@ -8,6 +8,7 @@ I build responsive web applications, interactive interfaces and developer tools 
 
 <br />
 
+[![Website](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zhulynskyi.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-0284c7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eslint_disable_next_line)
 ![Discord](https://img.shields.io/badge/danielwebdev-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
