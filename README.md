@@ -1,28 +1,128 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZhulinskiiDanil&style=flat&color=blue" alt="ZhulinskiiDanil"/>
-</p>
+<div align="center">
 
-<div align="center">
- <a href="https://t.me/eslint_disable_next_line">
-  <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
- </a>
- <img src="https://img.shields.io/badge/danielwebdev-cornflowerblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-</div>
-<div align="center">
- <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/Nuxt.js-2a4a3c?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue" style="max-width: 100%;">
- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue" style="max-width: 100%;">
-</div>
+<img src="./assets/profile-hero.svg" alt="Zhulynskyi Danylo — Frontend Developer" width="100%" />
 
 <br />
+
+I build responsive web applications, interactive interfaces and developer tools with **TypeScript, React, Vue and Nuxt**.
+
 <br />
-<br />
-<br />
-<h5>Coding on frameworks:</h5>
-<h6>Start from 2020 year ~ August</h6>
-<h6>"React.js" from 2021 year ~ June</h6>
-<h6>"Next.js" from 2021 year ~ July</h6>
-<h6>"Vue.js" from 2023 year ~ March</h6>
-<h6>"Nuxt.js" from 2023 year ~ March</h6>
-<h6>"Angular.js" from 2024 year ~ February</h6>
+
+[![Telegram](https://img.shields.io/badge/Telegram-0284c7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eslint_disable_next_line)
+![Discord](https://img.shields.io/badge/danielwebdev-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
+
+---
+
+## About me
+
+Frontend developer focused on building modern web interfaces and products.
+
+- Working primarily with **TypeScript, React, Vue and Nuxt**
+- Interested in frontend architecture, UI/UX, performance and **Artificial Intelligence**
+- Building web applications, interactive interfaces and tools
+- Expanding into backend development with **Node.js, APIs and databases**
+- Working toward becoming a **Fullstack Developer**
+- Building things with code since **2020**
+
+<div align="center">
+  <img src="./assets/pixel-wave.svg" alt="" width="100%" />
+</div>
+
+## Tech stack
+
+<div align="center">
+  <img src="./assets/stack-orbit.svg" alt="Frontend and beyond" width="100%" />
+</div>
+
+### Frontend & Beyond
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Pixels & Motion
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=000)
+
+### Backend & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## Projects
+
+### Blitzkrieg Tracker
+
+A training and statistics tool for **Geometry Dash**, built as a native Geode mod.
+
+Features include:
+
+- Training stages and run tracking
+- Player statistics
+- Profiles
+- Backups and data export
+- API integration
+- Admin tools and news system
+
+**Tech:** C++, Geode, Node.js, Express, PostgreSQL
+
+---
+
+### Melonity
+
+Frontend development for the main website and related products.
+
+**Tech:** Vue, Nuxt, TypeScript
+
+---
+
+### ModsNation
+
+Interactive web project featuring a **3D garage/interface**.
+
+**Tech:** React, TypeScript, Three.js
+
+---
+
+## Experience with frameworks
+
+| Technology | Since |
+| ---------- | ----- |
+| React      | 2021  |
+| Next.js    | 2021  |
+| Vue        | 2023  |
+| Nuxt       | 2023  |
+
+---
+
+## Coding activity
+
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D24968)](https://codetime.dev)
+
+---
+
+<div align="center">
+
+### Contact
+
+Feel free to contact me about development, projects or collaboration.
+
+[![Telegram](https://img.shields.io/badge/@eslint__disable__next__line-0284c7?style=flat&logo=telegram&logoColor=white)](https://t.me/eslint_disable_next_line)
+
+<br /><br />
+
+<img src="./assets/footer.svg" alt="Building things with code since 2020" width="100%" />
+
+</div>
