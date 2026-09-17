@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Zhulynskyi Danylo — Frontend Developer" width="100%" />
+<img src="./profile-hero.svg" alt="Zhulynskyi Danylo — Frontend Developer" width="100%" />
 
 <br />
 
@@ -27,13 +27,13 @@ Frontend developer focused on building modern web interfaces and products.
 - Building things with code since **2020**
 
 <div align="center">
-  <img src="./assets/pixel-wave.svg" alt="" width="100%" />
+  <img src="./pixel-wave.svg" alt="" width="100%" />
 </div>
 
 ## Tech stack
 
 <div align="center">
-  <img src="./assets/stack-orbit.svg" alt="Frontend and beyond" width="100%" />
+  <img src="./stack-orbit.svg" alt="Frontend and beyond" width="100%" />
 </div>
 
 ### Frontend & Beyond
@@ -123,6 +123,6 @@ Feel free to contact me about development, projects or collaboration.
 
 <br /><br />
 
-<img src="./assets/footer.svg" alt="Building things with code since 2020" width="100%" />
+<img src="./footer.svg" alt="Building things with code since 2020" width="100%" />
 
 </div>
