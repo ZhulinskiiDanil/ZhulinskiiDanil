@@ -1,0 +1,35 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="p" x1="80" y1="55" x2="1120" y2="55" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset=".22" stop-color="#38BDF8"/>
+      <stop offset=".52" stop-color="#6366F1"/>
+      <stop offset=".82" stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="110" y="54" width="980" height="2" rx="1" fill="url(#p)" opacity=".65"/>
+
+  <g fill="#38BDF8">
+    <rect x="230" y="28" width="8" height="8" rx="1" opacity=".18"/>
+    <rect x="260" y="44" width="10" height="10" rx="1" opacity=".42"/>
+    <rect x="296" y="58" width="7" height="7" rx="1" opacity=".75"/>
+  </g>
+
+  <g fill="#6366F1">
+    <rect x="560" y="22" width="10" height="10" rx="1" opacity=".3"/>
+    <rect x="590" y="47" width="12" height="12" rx="2"/>
+    <rect x="624" y="72" width="8" height="8" rx="1" opacity=".55"/>
+  </g>
+
+  <g fill="#A855F7">
+    <rect x="868" y="34" width="8" height="8" rx="1" opacity=".72"/>
+    <rect x="904" y="52" width="11" height="11" rx="2" opacity=".45"/>
+    <rect x="938" y="70" width="7" height="7" rx="1" opacity=".2"/>
+  </g>
+
+  <text x="600" y="100" text-anchor="middle" fill="#94A3B8" font-size="12" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="3">
+    BUILD • LEARN • ITERATE
+  </text>
+</svg>
